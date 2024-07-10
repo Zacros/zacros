@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zacros
+- 👋 Hi, I’m @Zacros
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning GANS
 - 💞️ I’m looking to collaborate on ...
